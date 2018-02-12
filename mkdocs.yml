@@ -1,0 +1,11 @@
+site_name: resourceportal
+site_description: Backend for resourceportal.ocf.tw
+repo_url: https://github.com/ocftw/resourceportal-backend
+site_dir: site
+copyright: Copyright &copy; 2018, <a href="https://github.com/ocftw">ocftw</a>.
+
+pages:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
